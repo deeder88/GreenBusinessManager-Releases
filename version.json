@@ -1,8 +1,8 @@
 {
-  "versionName": "1.1.2",
-  "versionCode": 10102,
+  "versionName": "1.1.3",
+  "versionCode": 10103,
   "minSupportedVersion": "1.0.0",
-  "releaseNotes": "Rilasciata la versione 1.1.2 con miglioramenti e correzioni.",
+  "releaseNotes": "Rilasciata la versione 1.1.3 con miglioramenti e correzioni.",
   "downloadUrl": "https://github.com/deeder88/GreenBusinessManager-Releases/releases/latest",
   "forceUpdate": false
 }
